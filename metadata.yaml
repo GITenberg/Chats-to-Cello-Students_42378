@@ -1,0 +1,25 @@
+_repo: Chats-to-Cello-Students_42378
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Broadley, Arthur
+    gutenberg_agent_id: '41656'
+    url: http://www.gutenberg.org/2009/agents/41656
+description: ''
+gutenberg_issued: '2013-03-20'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '42378'
+  lccn: '44037570'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'MT'
+- !lcsh 'Cello -- Instruction and study'
+title: Chats to 'Cello Students
+url: http://www.gutenberg.org/ebooks/42378
